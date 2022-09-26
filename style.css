@@ -228,4 +228,9 @@ h3{
     height: auto;
 }
 
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
 
